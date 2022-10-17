@@ -1,4 +1,4 @@
-<h1>Sistema de cadrasto de jogos</h1>
+ # Sistema de cadrasto de jogos
 
 > Status do projeto: Em desenvolvimento 
 
